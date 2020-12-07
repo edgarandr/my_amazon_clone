@@ -1,1 +1,1 @@
-# my_amazon_clone
+# edgarandr.my_amazon_clone
